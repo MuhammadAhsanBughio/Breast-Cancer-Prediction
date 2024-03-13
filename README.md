@@ -6,7 +6,7 @@ This project focuses on leveraging supervised learning models to develop an accu
 The dataset is obtained from [kaggle](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset) and is available in this repository [dataset](https://github.com/MuhammadAhsanBughio/Breast-Cancer-Detection/tree/main/Dataset) as well.
 ### Tools Used 🧰
 - Numpy [Info](https://numpy.org/)
-- Pandas [info] (https://pandas.pydata.org/)
+- Pandas [info](https://pandas.pydata.org/)
 - Matplotlib [info](https://matplotlib.org/)
 - seaborn [info](https://seaborn.pydata.org/)
 - sklearn.preprocessing [info](https://scikit-learn.org/stable/)
